@@ -11,6 +11,6 @@ This will generate a Tweet. You only have then to select a image after. To work 
 
 ## How to Install 💻
 
-1- Get an Hosting  Account tor Web Server that supports ```PHP (V. 7 =>)``` (also works locally with Docker or Xampp for exemple)
+1- Get a Hosting Account or Web Server that supports ```PHP (V. 7 =>)``` (also works locally with Docker or Xampp for exemple)
 
 2- Upload all files (excluding nodes.sql and readme.md) to your Hosting Account
